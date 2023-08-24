@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px"  align="center" alt="cuongnguyen" />
+ <img width="100px" src="https://github.com/nqcccccc/nqcccccc/blob/main/logo.svg?raw=true"  align="center" alt="cuongnguyen" />
  <h2 align="center">Cuong Nguyen Quoc</h2>
 </p>
 
@@ -48,5 +48,4 @@ Personal Website: [cuongnguyen.space](https://cuongnguyen.space)
 Did you know? I'm obsessed with clean code, question mark (?.) and clear 😄😄😄
 
 ## 🖼️ GitHub Stats
-
-nqcccccc's GitHub Stats
+![nqcccccc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nqcccccc&show_icons=true)
