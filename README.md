@@ -1,4 +1,7 @@
-***<h2 style="text-align: center;">Cuong Nguyen Quoc</h2>***
+<p align="center">
+ <img width="100px"  align="center" alt="cuongnguyen" />
+ <h2 align="center">Cuong Nguyen Quoc</h2>
+</p>
 
 Hello there! 👋 I'm Cuong Nguyen, a passionate full-stack developer based in HCMC, Vietnam. I specialize in Node.js and
 Angular and love creating impactful web applications.
