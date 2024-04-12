@@ -10,18 +10,15 @@ Angular and love creating impactful web applications.
 
 Project 1: VNC ecommerce - Angular NestJS technology ecommerce 
 
-Project 2: Portfolio - Vite + Vue3 personal portfolio
+Project 2: Sabatachi - Crypto chart
 
-Project 3: Vietnamese TTS
-
-Project 4: DSS - Django environment decision support system
 
 ## 🌱 Skills
 
 * WebApp:
 
     * Languages: JavaScript, TypeScript, Python, HTML, CSS
-    * Front-end: Angular, Vue.js
+    * Front-end: Angular, Vue.js, React
     * Back-end: Node.js, Express.js, Nest.js, Django, FastAPI
     * Databases: MongoDB, MySQL, GraphQL, Postgre
     * Version Control: Git, GitHub, Bitbucket, Gitlab ...
