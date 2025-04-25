@@ -6,13 +6,6 @@
 Hello there! 👋 I'm Cuong Nguyen, a passionate full-stack developer based in HCMC, Vietnam. I specialize in Node.js and
 Angular and love creating impactful web applications.
 
-## 🔭 Current Projects
-
-Project 1: VNC ecommerce - Angular NestJS technology ecommerce 
-
-Project 2: Sabatachi - Crypto chart
-
-
 ## 🌱 Skills
 
 * WebApp:
